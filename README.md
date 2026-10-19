@@ -1,18 +1,28 @@
-My project name is FITLOG.
+# 💪 FitLog
 
-FITLOG is a workout management web application where users can explore workouts, view workout details, create a daily workout plan, and save workouts for later.
+### Your Fitness, Your Progress 🟢
 
-Technologies Used Next.js, React, TypeScript, Tailwind CSS, DaisyUI, React Icons and React Toastify.
+**FitLog** is a fitness web application that helps users explore workouts, plan their daily exercises, and organize their fitness routines through a clean and modern interface.
 
-Key Features are-
-1. Workout Library:
-   Browse different workouts with information such as muscle groups, equipment, duration, calories, and rating.
-2. Workout Details: 
-   View complete workout information, including description, difficulty, sets, reps, and instructions.
-3. Today's Plan:  
-   Add workouts to a personal daily plan and track total exercises, minutes, and calories.
-4. Save for Later:  
-   Save workouts for later and manage them from the Saved tab.
-5. Workout Management: 
-   Remove workouts, mark planned workouts as completed, sort workouts, and get toast notifications for actions.
+## 🛠️ Technologies Used
 
+- **React** — User interface
+- **JavaScript** — Application logic
+- **Tailwind CSS** — Styling
+- **DaisyUI** — UI components
+- **React Icons** — Icons and visual elements
+- **React Toastify** — Notifications
+
+## ✨ Key Features
+
+- 🏋️ **Explore Workouts** — Browse available exercises.
+- 📋 **Workout Planning** — Add exercises to your personal workout plan.
+- 🎯 **My Plan** — View and manage your planned workouts.
+- 🔢 **Workout Tracking** — Keep track of your workout plans.
+- 🎨 **Modern Interface** — Enjoy a clean, dark design with a vibrant lime-green accent.
+
+---
+
+<p align="center">
+  <strong>Build Consistency. Get Stronger. 💚</strong>
+</p>
